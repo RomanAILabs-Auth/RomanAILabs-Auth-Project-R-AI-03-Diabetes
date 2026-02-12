@@ -1,7 +1,5 @@
 # RomanAI-Sovereign-Trinity
 
-![RomanAI Banner](https://your-image-url-here.com/banner.png)
-
 ## 🌌 The Global Open-Source Mandate
 **RomanAI-Sovereign-Trinity** is a deterministic molecular architecture governed by the $\Phi$ field integral. This repository provides the full computational logic for the three pillars of human restoration. We believe health is a sovereign right, not a subscription.
 
